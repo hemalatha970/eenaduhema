@@ -1,0 +1,37 @@
+
+-------------COMMANDS FOR GITHUB------------------
+
+
+#---------git add init
+#---------git status
+#---------git remote set-url origin <new_remote_url>
+#---------git remote set-url origin <new_remote_url>
+
+
+----------------------
+#---------git remote add origin https://github.com/username/repo.git
+
+origin  https://github.com/hemalatha970/eenaduhema.git (fetch)
+origin  https://github.com/hemalatha970/eenaduhema.git (push)
+git clone https://github.com/username/repo.git
+
+#----------git remote remove origin
+
+----------------------
+
+
+Add File	git add <file> → git commit -m "<message>" → git push origin master
+Update File	git add <file> → git commit -m "<message>" → git push origin master
+Delete File	git rm <file> → git commit -m "<message>" → git push origin master
+Pull Changes	git pull origin master
+
+---------------------
+
+**** git add index.html
+
+**** git commit -m "update index.html"
+
+**** git pull origin master
+
+**** git push origin master
+
